@@ -44,8 +44,10 @@ h1.title{font-size:3.2rem;margin-bottom:0}
 h2{font-size:1.5rem;margin:2.2rem 0 .7rem;border-bottom:1px solid var(--rule);padding-bottom:.25rem}
 h3{font-size:1.2rem;margin:1.5rem 0 .4rem}
 .kind{font-family:"IM Fell English",Georgia,serif;font-style:italic;font-size:.9rem;color:var(--ink-soft);letter-spacing:0}
-.sub{font-style:italic;color:var(--ink-soft);margin:0 0 1.2rem;font-size:1.15rem}
-.lead{font-size:1.12rem}
+.sub{font-style:italic;color:var(--ink-soft);margin:0 0 .85rem;font-size:1.15rem}
+.splash{margin:0 0 1.2rem;border:1px solid var(--rule);background:var(--paper)}
+.splash img{display:block;width:100%;height:auto}
+.lead{font-size:1.12rem;max-width:85ch}
 .motto{font-style:italic;color:var(--ink-soft);margin:.1rem 0 .6rem;font-size:1.1rem}
 .note,.when{color:var(--ink-soft);font-style:italic}
 p{max-width:70ch}
